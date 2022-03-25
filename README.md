@@ -76,7 +76,7 @@ gdal_retile.py -v -r near -ps 128 128 -co “TILED=YES”  -targetDir annotation
 ```
 
 ## Model Setup
-Based on Unet, we add Convolution2D regularization parameter, Dropout layer, and we also modify the number of filters. We use Adam algorithm as our optimizer.
+Based on Unet, we experiment with Convolution2D regularization parameter, Dropout layer, and we also modify the number of filters. We tried both Adam and Adadelta as the optimizer.
 
 ## Train and Test 
 To train the model:  ```./scripts/train_building.sh```
