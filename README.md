@@ -26,7 +26,7 @@ To cite:
 @data{p2fp-mn16-22,
 doi = {10.21227/p2fp-mn16},
 url = {https://dx.doi.org/10.21227/p2fp-mn16},
-author = {Chen, YIfan},
+author = {Chen, YIfan and Soliman, Aiman and Kindratenko, Volodymyr and Luo, Shirui and Makharov, Rauf},
 publisher = {IEEE Dataport},
 title = {DEM_building_Illinois},
 year = {2022} }
